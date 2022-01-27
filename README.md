@@ -1,6 +1,6 @@
 # themessages-lurker 
 Webscraper to browse [themessages](https://themessages.herokuapp.com) on the terminal.<br /> 
-Used lxml instead of the json because I was learning lxml. 
+Used lxml instead of the json, or bs4 because I was learning lxml. 
 
 ### Usage
 `python3 main.py`
